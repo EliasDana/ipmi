@@ -1,4 +1,7 @@
 PImage tp1;
+//Nombre: Elias Dana
+//Legajo:125563/3
+//Comision 1
 
 int desp; // variable desplazar
 
